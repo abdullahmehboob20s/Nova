@@ -389,7 +389,7 @@ export default function DotParticals() {
               factor: 1000,
             },
             limit: 0,
-            value: 400,
+            value: 200,
           },
           opacity: {
             random: {
